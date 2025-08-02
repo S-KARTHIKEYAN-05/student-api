@@ -26,4 +26,4 @@ This is a simple RESTful API built using Java and Spring Boot that allows users 
 
 
    ```bash
-   git clone https://github.com/yourusername/student-api.git
+   git clone https://github.com/S-KARTHIKEYAN-05/student-api.git
